@@ -1,0 +1,22 @@
+.div1{
+    border:1px solid black;
+    margin: auto;
+    height:1200px;
+    width:50%;
+    padding-left: 10px;
+}
+#heading{
+    color:blue;
+}
+.div3{
+    color:indianred;
+}
+.div4{
+    color:brown;
+}
+.div5{
+    color:blue;
+}
+.div6{
+    color:darkmagenta;
+}
